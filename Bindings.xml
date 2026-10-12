@@ -1,0 +1,6 @@
+<Bindings>
+	<Binding name="RETROVISION_TOGGLE" header="RETROVISION" category="ADDONS">RetroVision:Toggle()</Binding>
+	<Binding name="RETROVISION_NEXT" category="ADDONS">RetroVision:CyclePreset(1)</Binding>
+	<Binding name="RETROVISION_PREV" category="ADDONS">RetroVision:CyclePreset(-1)</Binding>
+	<Binding name="RETROVISION_OPTIONS" category="ADDONS">RetroVision:ToggleOptions()</Binding>
+</Bindings>
